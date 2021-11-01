@@ -9,7 +9,7 @@ function Libros() {
 
   const {libros, agregar} = useContext(contex);
   return (
-      <div className="Cartelera">
+      <div className="libreria">
           <h4>Libros disponibles</h4>
             {
               <Table>
