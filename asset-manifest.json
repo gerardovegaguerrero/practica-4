@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica-4/static/css/main.4f662a33.chunk.css",
+    "main.js": "/practica-4/static/js/main.7d3b0db5.chunk.js",
+    "main.js.map": "/practica-4/static/js/main.7d3b0db5.chunk.js.map",
+    "runtime-main.js": "/practica-4/static/js/runtime-main.386e92b7.js",
+    "runtime-main.js.map": "/practica-4/static/js/runtime-main.386e92b7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/practica-4/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.28e547fa.chunk.js": "/practica-4/static/js/2.28e547fa.chunk.js",
+    "static/js/2.28e547fa.chunk.js.map": "/practica-4/static/js/2.28e547fa.chunk.js.map",
+    "static/js/3.4a3e212a.chunk.js": "/practica-4/static/js/3.4a3e212a.chunk.js",
+    "static/js/3.4a3e212a.chunk.js.map": "/practica-4/static/js/3.4a3e212a.chunk.js.map",
+    "index.html": "/practica-4/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/practica-4/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4f662a33.chunk.css.map": "/practica-4/static/css/main.4f662a33.chunk.css.map",
+    "static/js/2.28e547fa.chunk.js.LICENSE.txt": "/practica-4/static/js/2.28e547fa.chunk.js.LICENSE.txt",
+    "static/media/librerias-gandhi.6fd17556.png": "/practica-4/static/media/librerias-gandhi.6fd17556.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386e92b7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.28e547fa.chunk.js",
+    "static/css/main.4f662a33.chunk.css",
+    "static/js/main.7d3b0db5.chunk.js"
+  ]
+}
